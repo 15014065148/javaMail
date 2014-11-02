@@ -1,0 +1,14 @@
+文件夹 PATH 列表
+卷序列号为 237D-1AF7
+E:\MYECLIPSE10\JAVAMAIL2\BIN\LIB
+    smtp.jar
+    pop3.jar
+    mailapi.jar
+    mail.jar
+    imap.jar
+    gimap.jar
+    dsn.jar
+    jars.txt
+    
+没有子文件夹 
+
